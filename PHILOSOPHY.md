@@ -41,7 +41,16 @@ Every rumble → `data/predictions.json`. Every strategy meeting → `data/strat
 
 Every skill, every agent, every role is named after a real corporate function — Research Associate, Performance Analyst, Events Desk, Research Director. Loads massive context instantly. Descriptive names (*future-planner*, *task-router*) are replaced. Fund roles mirror how real funds are organized.
 
-## 10. 🔮 Future-proof by default
+## 10. 🔬 Research discipline (3 non-negotiable rules)
+
+Every human-written note follows the same 3 rules professional hedge fund analysts use:
+1. **Idea folders > source folders** — organize by TICKER, not by source
+2. **Every memo has a bear case** — even (especially) when bullish
+3. **Every claim that can be challenged gets a tag** — `[SRC: ...]`, `[REPORTED]`, `[ESTIMATE]`, `[UNVERIFIED]`
+
+Full spec with examples + anti-fatigue fallback in [RESEARCH-DISCIPLINE.md](RESEARCH-DISCIPLINE.md).
+
+## 11. 🔮 Future-proof by default
 
 Before shipping anything, ask: "Will this survive and stay readable 12 months from now?" Version stamps. CHANGELOG entries. One source of truth per fact. Plain text > proprietary format. Names that age well.
 
