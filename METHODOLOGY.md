@@ -1,6 +1,6 @@
 # ⚙️ Methodology
 
-> How Waypoint Capital actually makes decisions.
+> How Blue Hill Capital actually makes decisions.
 
 ---
 

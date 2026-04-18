@@ -1,4 +1,4 @@
-# 🗺️ Waypoint Capital
+# 🗺️ Blue Hill Capital
 
 > A **pre-alpha hedge fund** built from first principles —
 > 13-legend investment committee, sealed-room research,

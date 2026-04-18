@@ -1,4 +1,4 @@
-# 🔍 Gap Log — Waypoint Capital
+# 🔍 Gap Log — Blue Hill Capital
 
 > Every time the system reveals a weak point, log it here within 60 seconds.
 > Memory fades. The log is the signal.

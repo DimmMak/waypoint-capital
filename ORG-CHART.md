@@ -1,4 +1,4 @@
-# 🏛️ Waypoint Capital — Org Chart
+# 🏛️ Blue Hill Capital — Org Chart
 
 > Every brand-named skill → its real hedge fund role.
 > Source of truth for "who does what" in the operation.
@@ -119,10 +119,10 @@ Real fund title    = yaml "role:" field in each SKILL.md frontmatter
 ## 🎯 Usage examples
 
 **Your LinkedIn summary:**
-> "Built and operate Waypoint Capital, a pre-alpha hedge fund, across a 13-role organizational chart: PM, Head of Research, Chief of Staff, Investment Committee (13 legends), IR/Press Office, Performance Attribution, Trader Diary, Events Desk, Due Diligence, Records Manager, Research Librarian, and Back Office. Each role is a versioned Claude skill. Stack runs $2.4k/year."
+> "Built and operate Blue Hill Capital, a pre-alpha hedge fund, across a 13-role organizational chart: PM, Head of Research, Chief of Staff, Investment Committee (13 legends), IR/Press Office, Performance Attribution, Trader Diary, Events Desk, Due Diligence, Records Manager, Research Librarian, and Back Office. Each role is a versioned Claude skill. Stack runs $2.4k/year."
 
 **Your interview opener:**
-> "At Waypoint, our Investment Committee runs every name through a sealed-subagent blind committee of 13 legendary investor frameworks. The Judge synthesizes a weighted verdict. Our Chief of Staff ranks the output for attention, and our Press Office turns it into Howard Marks-style memos. Every trade lives in git with audit trail."
+> "At Blue Hill, our Investment Committee runs every name through a sealed-subagent blind committee of 13 legendary investor frameworks. The Judge synthesizes a weighted verdict. Our Chief of Staff ranks the output for attention, and our Press Office turns it into Howard Marks-style memos. Every trade lives in git with audit trail."
 
 ---
 

@@ -1,4 +1,4 @@
-# 👀 Watchlist — Waypoint Capital
+# 👀 Watchlist — Blue Hill Capital
 
 > Tickers under active observation. Not positions — candidates.
 > Run `.price` on this list any time. Re-rumble when curiosity strikes.

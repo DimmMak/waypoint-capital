@@ -1,6 +1,6 @@
 # 🏗️ The Stack
 
-> How Waypoint Capital runs for **$2.4k/year** — roughly **1% of a Bloomberg seat**.
+> How Blue Hill Capital runs for **$2.4k/year** — roughly **1% of a Bloomberg seat**.
 
 ---
 

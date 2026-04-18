@@ -1,4 +1,4 @@
-# ☀️ Daily Ritual — Waypoint Capital
+# ☀️ Daily Ritual — Blue Hill Capital
 
 > The 3-minute minimum that turns a hedge fund from a repo into an operating system.
 

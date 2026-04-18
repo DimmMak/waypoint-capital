@@ -1,4 +1,4 @@
-# CHANGELOG — Waypoint Capital
+# CHANGELOG — Blue Hill Capital
 
 Every material change to the fund: process, infrastructure, constraints, or track record.
 

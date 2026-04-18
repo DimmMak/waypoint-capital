@@ -1,6 +1,6 @@
 # 📐 Constraints
 
-> The rules that define what Waypoint Capital CAN and CANNOT do.
+> The rules that define what Blue Hill Capital CAN and CANNOT do.
 > Non-negotiable. Violation is a process failure.
 
 ---

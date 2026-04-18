@@ -1,6 +1,6 @@
 # 🧬 Philosophy
 
-> The 10 principles that govern Waypoint Capital.
+> The 10 principles that govern Blue Hill Capital.
 > Updated rarely. Overridden never.
 
 ---
@@ -73,6 +73,6 @@ Before shipping anything, ask: "Will this survive and stay readable 12 months fr
 
 **You don't beat the market with better data. You beat the market with better discipline.**
 
-Waypoint is a discipline-first fund. The data is free. The discipline is earned daily.
+Blue Hill is a discipline-first fund. The data is free. The discipline is earned daily.
 
 🃏⚔️

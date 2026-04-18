@@ -1,6 +1,6 @@
 # 🔬 Research Discipline
 
-> The 3 non-negotiable rules of Waypoint Capital research.
+> The 3 non-negotiable rules of Blue Hill Capital research.
 > Same rules professional hedge fund analysts follow. Applied to every human-written note AND every AI-generated output.
 
 ---
@@ -10,13 +10,13 @@
 ### **Rule 1. Idea folders > source folders**
 
 ```
-✅  waypoint-capital/trades/NOW/
+✅  blue-hill-capital/trades/NOW/
       2026-04-17-rumble.md
       2026-04-17-memo.md
       2026-04-22-earnings-reaction.md
       2026-05-01-thesis-refresh.md
 
-❌  waypoint-capital/articles/
+❌  blue-hill-capital/articles/
       bloomberg-articles.md
       seeking-alpha-notes.md
       10K-filings.md
@@ -143,5 +143,5 @@ a trader and a portfolio manager.
 
 - **Cite-or-Abstain** (royal-rumble PRE-STEP) — programmatic version of Rule 3
 - **Contrarian Anchor** (Judge STEP 7) — programmatic version of Rule 2
-- **trades/ folder structure** (already in waypoint-capital) — implementation of Rule 1
+- **trades/ folder structure** (already in blue-hill-capital) — implementation of Rule 1
 - **CONSTRAINTS.md** — sizing + stop discipline to pair with research discipline

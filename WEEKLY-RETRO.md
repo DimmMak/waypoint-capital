@@ -1,4 +1,4 @@
-# 📅 Weekly Retro — Waypoint Capital
+# 📅 Weekly Retro — Blue Hill Capital
 
 > Every Sunday. 30 min. The mechanism that turns daily prodding into compounded improvement.
 
@@ -79,7 +79,7 @@
 
 ### Ships this week (13 versions across 11 skills)
 - royal-rumble v0.1 → v0.9.3 (architecture + blind subagents + price-desk integration)
-- waypoint-capital v0.1.0 → v0.1.2 (fund docs + research discipline)
+- blue-hill-capital v0.1.0 → v0.1.2 (fund docs + research discipline)
 - journalist v0.1.0 (Marks-style memos)
 - chief-of-staff v0.1 → v0.2 (attention filter + first dispatch command)
 - price-desk v0.1 → v0.1.2 (live prices + menu + watchlist)
